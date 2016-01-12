@@ -1,0 +1,11 @@
+# tags should correspond to page img-tag in page yml
+
+
+- title: railroads
+  filename: railroads.png
+  directory: banner
+  caption: "Unknown"
+  credit: ""
+  alt-txt: "Railroads"
+  tag: railroads
+

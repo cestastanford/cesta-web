@@ -1,0 +1,75 @@
+###
+# Project or Lab name
+###
+
+name:                     "Center for Spatial and Textual Analysis"
+sub-name:                 "CESTA"
+type:                     lab # is this a `lab` site or `project` site?
+
+###
+# Options
+###
+
+markdown:                 redcarpet
+highlighter:              rouge
+description:              "The Center for Spatial and Textual Analysis labs and projects pursue research which utilize data and information visualization that span a variety of methodologies, disciplines, and departments, often collaborating with diverse team members from within the Stanford community, but also externally through national and international collaborations. "
+destination:              'built'
+url:                      'http://localhost:4000'
+permalink:                /:year/:month/:day/:title/
+twitter:                  'CESTA_Stanford'
+
+###
+# Images
+###
+
+#This is the base directory (cloud) where we share images
+img-url:           "https://googledrive.com/host/0B_L3W8DD67iAVUktdHIxN0RnUjA/"
+banner-img-url:    "https://googledrive.com/host/0B_L3W8DD67iAVUktdHIxN0RnUjA/"
+
+###
+# Navigation
+###
+nav:
+  - title: Home
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "People"
+    url: /people/
+  - title: "Labs"
+    url: /labs/
+    subcategories:
+      - subtitle: "Humanities+Design"
+        suburl: /hdlab/
+      - subtitle: "Spatial History Project"
+        suburl: /shp/
+      - subtitle: "Literary Lab"
+        suburl: /litlab/
+      - subtitle: "Poetic Media"
+        suburl: /poetic/
+  - title: "Teaching"
+    url: /teaching/
+    subcategories:
+      - subtitle: "Graduate Certificate of Digital Humanities"
+        suburl:   /teaching/gcdh/
+      - subtitle: "Digital Humanities Undergraduate Minor"
+        suburl:   /teaching/dh-minor/
+      - subtitle: "Digital History Reading Group"
+        suburl:   /teaching/dh-reading/
+      - subtitle: "Digital Humanities Graduate Fellows"
+        suburl:   /teaching/dh-fellows/
+  - title: "Resources"
+    url: /resources/
+  - title: "Affiliates"
+    url: /affiliates/
+    subcategories:
+      - subtitle: "Stanford Humanities Center"
+        url: http://shc.stanford.edu
+      - subtitle: "DH@Stanford"
+        url: http://digitalhumanities.stanford.edu
+
+###
+# Exclude
+###
+
+exclude: [vendor]

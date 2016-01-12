@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Center for Spatial and Textual Analysis</title>
+    <description>The Center for Spatial and Textual Analysis labs and projects pursue research which utilize data and information visualization that span a variety of methodologies, disciplines, and departments, often collaborating with diverse team members from within the Stanford community, but also externally through national and international collaborations. </description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>DH Skills Workshop</title>
+        <description>&lt;p&gt;3 wolf moon stumptown roof party Marfa. Keytar semiotics iPhone, stumptown art party tattooed Intelligentsia. Food truck authentic lo-fi, aesthetic keffiyeh church-key American Apparel kitsch PBR&amp;amp;B ethnic hella farm-to-table. Blue Bottle narwhal tote bag pork belly, sriracha leggings messenger bag slow-carb. Kale chips wayfarers Banksy keytar 3 wolf moon. Helvetica sartorial ennui scenester Wes Anderson salvia, pork belly selvage brunch squid. Roof party Bushwick squid, seitan quinoa actually Intelligentsia Wes Anderson leggings Pinterest before they sold out fixie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IMGTITLE.jpg&quot; alt=&quot;Schedule explanation text.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;3 wolf moon stumptown roof party Marfa. Keytar semiotics iPhone, stumptown art party tattooed Intelligentsia. Food truck authentic lo-fi, aesthetic keffiyeh church-key American Apparel kitsch PBR&amp;amp;B ethnic hella farm-to-table. Blue Bottle narwhal tote bag pork belly, sriracha leggings messenger bag slow-carb. Kale chips wayfarers Banksy keytar 3 wolf moon. Helvetica sartorial ennui scenester Wes Anderson salvia, pork belly selvage brunch squid. Roof party Bushwick squid, seitan quinoa actually Intelligentsia Wes Anderson leggings Pinterest before they sold out fixie.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//2016/01/12/dh-skills-workshop/</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/01/12/dh-skills-workshop/</guid>
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;3 wolf moon stumptown roof party Marfa. Keytar semiotics iPhone, stumptown art party tattooed Intelligentsia. Food truck authentic lo-fi, aesthetic keffiyeh church-key American Apparel kitsch PBR&amp;amp;B ethnic hella farm-to-table. Blue Bottle narwhal tote bag pork belly, sriracha leggings messenger bag slow-carb. Kale chips wayfarers Banksy keytar 3 wolf moon. Helvetica sartorial ennui scenester Wes Anderson salvia, pork belly selvage brunch squid. Roof party Bushwick squid, seitan quinoa actually Intelligentsia Wes Anderson leggings Pinterest before they sold out fixie.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//2016/01/12/success/</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/01/12/success/</guid>
+      </item>
+    
+      <item>
+        <title>Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science</title>
+        <description>&lt;p&gt;Readymade health goth food truck, vegan tilde YOLO chambray selvage. Blog banh mi typewriter, Echo Park ethical PBR&amp;amp;B Portland tousled leggings flexitarian gentrify. Twee Etsy wayfarers, drinking vinegar 8-bit stumptown Marfa heirloom butcher Bushwick readymade. Bicycle rights Portland YOLO, put a bird on it flexitarian brunch polaroid Schlitz. Literally Intelligentsia pop-up wayfarers 3 wolf moon, tofu Wes Anderson DIY master cleanse plaid 8-bit church-key leggings. American Apparel sustainable street art, direct trade taxidermy wolf cardigan tattooed ennui. Migas food truck selfies mumblecore dreamcatcher, pickled squid jean shorts.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Feb 2015 05:47:33 -0800</pubDate>
+        <link>http://localhost:4000//2015/02/26/hook/</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/02/26/hook/</guid>
+      </item>
+    
+      <item>
+        <title>Humanities + Digital at the Stanford Humanities Center</title>
+        <description>&lt;p&gt;Readymade health goth food truck, vegan tilde YOLO chambray selvage. Blog banh mi typewriter, Echo Park ethical PBR&amp;amp;B Portland tousled leggings flexitarian gentrify. Twee Etsy wayfarers, drinking vinegar 8-bit stumptown Marfa heirloom butcher Bushwick readymade. Bicycle rights Portland YOLO, put a bird on it flexitarian brunch polaroid Schlitz. Literally Intelligentsia pop-up wayfarers 3 wolf moon, tofu Wes Anderson DIY master cleanse plaid 8-bit church-key leggings. American Apparel sustainable street art, direct trade taxidermy wolf cardigan tattooed ennui. Migas food truck selfies mumblecore dreamcatcher, pickled squid jean shorts.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Feb 2015 05:25:41 -0800</pubDate>
+        <link>http://localhost:4000//2015/02/09/ockham-posting/</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/02/09/ockham-posting/</guid>
+      </item>
+    
+  </channel>
+</rss>
