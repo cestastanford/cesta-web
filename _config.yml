@@ -12,11 +12,12 @@ type:                     lab # is this a `lab` site or `project` site?
 
 markdown:                 redcarpet
 highlighter:              rouge
-description:              "The Center for Spatial and Textual Analysis labs and projects pursue research which utilize data and information visualization that span a variety of methodologies, disciplines, and departments, often collaborating with diverse team members from within the Stanford community, but also externally through national and international collaborations. "
+description:              "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University."
 destination:              'built'
-url:                      'http://localhost:4000'
+url:                      'http://localhost:4000' # Change when going live
 permalink:                /:year/:month/:day/:title/
 twitter:                  'CESTA_Stanford'
+facebook:                 'cesta.stanford'
 
 ###
 # Images

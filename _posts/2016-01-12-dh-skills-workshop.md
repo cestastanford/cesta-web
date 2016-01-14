@@ -1,13 +1,12 @@
 ---
-layout: page
-title: "DH Skills Workshop"
+layout: post
+title: "Digital Humanities Skills Workshop"
+author: "Jason Heppler"
+mug: "/images/headshot/jheppler.jpg"
+short_bio: Jason Heppler is the Academic Technology Specialist in the Department of History at Stanford University and a Ph.D. candidate in History at the University of Nebraska-Lincoln
 date: 2016-01-12
 categories: [workshop]
 tags: [announcement]
 ---
 
-3 wolf moon stumptown roof party Marfa. Keytar semiotics iPhone, stumptown art party tattooed Intelligentsia. Food truck authentic lo-fi, aesthetic keffiyeh church-key American Apparel kitsch PBR&B ethnic hella farm-to-table. Blue Bottle narwhal tote bag pork belly, sriracha leggings messenger bag slow-carb. Kale chips wayfarers Banksy keytar 3 wolf moon. Helvetica sartorial ennui scenester Wes Anderson salvia, pork belly selvage brunch squid. Roof party Bushwick squid, seitan quinoa actually Intelligentsia Wes Anderson leggings Pinterest before they sold out fixie.
-
-![Schedule explanation text.](/images/IMGTITLE.jpg)
-
-3 wolf moon stumptown roof party Marfa. Keytar semiotics iPhone, stumptown art party tattooed Intelligentsia. Food truck authentic lo-fi, aesthetic keffiyeh church-key American Apparel kitsch PBR&B ethnic hella farm-to-table. Blue Bottle narwhal tote bag pork belly, sriracha leggings messenger bag slow-carb. Kale chips wayfarers Banksy keytar 3 wolf moon. Helvetica sartorial ennui scenester Wes Anderson salvia, pork belly selvage brunch squid. Roof party Bushwick squid, seitan quinoa actually Intelligentsia Wes Anderson leggings Pinterest before they sold out fixie.
+As part of Digital Humanities: Asia, Nicole Coleman and Jason Heppler are running a series of workshops at the Center for Spatial and Textual Analysis.

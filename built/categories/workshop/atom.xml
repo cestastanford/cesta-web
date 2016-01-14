@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: workshop | ]]></title>
+  <link href="http://localhost:4000/categories/workshop/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2016-01-13T16:28:11-08:00</updated>
+  <id>http://localhost:4000/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Digital Humanities Skills Workshop]]></title>
+    <link href="http://localhost:4000/2016/01/12/dh-skills-workshop/"/>
+    <updated>2016-01-12T00:00:00-08:00</updated>
+    <id>http://localhost:4000/2016/01/12/dh-skills-workshop</id>
+    <content type="html"><![CDATA[<p>As part of Digital Humanities: Asia, Nicole Coleman and Jason Heppler are running a series of workshops at the Center for Spatial and Textual Analysis.</p>
+]]></content>
+  </entry>
+  
+</feed>

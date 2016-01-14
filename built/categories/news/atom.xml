@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: news | ]]></title>
+  <link href="http://localhost:4000/categories/news/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2016-01-13T16:28:11-08:00</updated>
+  <id>http://localhost:4000/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Digital Humanities at Stanford]]></title>
+    <link href="http://localhost:4000/2015/07/02/digital-humanities-at-stanford/"/>
+    <updated>2015-07-02T13:47:00-07:00</updated>
+    <id>http://localhost:4000/2015/07/02/digital-humanities-at-stanford</id>
+    <content type="html"><![CDATA[<p>The <a href="http://shc.stanford.edu/digital-humanities">Stanford Humanities Center</a> is highlighting some of the work being done by digital humanities scholars around Stanford University, including several members and associates of CESTA. The full collection of videos produced by SHC can be <a href="http://shc.stanford.edu/video-category/digital-humanities">found online</a>. </p>
+
+<h2>Geography of the Post</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_Q2olSSk4Y" frameborder="0" allowfullscreen></iframe>
+
+<h2>Lacuna Stories</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3JVu6n2SbCU" frameborder="0" allowfullscreen></iframe>
+
+<h2>Palladio</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUUVgWxeATs" frameborder="0" allowfullscreen></iframe>
+
+<h2>Writing Rights</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ew7Ek-hNO18" frameborder="0" allowfullscreen></iframe>
+
+<h2>Text Technologies</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQKmktxYcsc" frameborder="0" allowfullscreen></iframe>
+
+<h2>Enchanting the Desert</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-6Ci1rGmQQ" frameborder="0" allowfullscreen></iframe>
+
+<h2>Çatalhöyük Living Archive</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IycpOCdzTIc" frameborder="0" allowfullscreen></iframe>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science]]></title>
+    <link href="http://localhost:4000/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science/"/>
+    <updated>2015-06-08T13:43:00-07:00</updated>
+    <id>http://localhost:4000/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science</id>
+    <content type="html"><![CDATA[<p>On May 7th, Stanford University Libraries&#39; Center for Interdisciplinary Digital
+Research (CIDR) welcomed David O&#39;Sullivan, Associate Professor of Geography at
+the University of California, Berkeley to the Stanford campus for two events:
+a panel discussion on geospatial narrative at CESTA, and a guest lecture on
+spatial simulation modeling. For an overview of the panel discussion held at
+CESTA, see <a href="https://digitalhumanities.stanford.edu/cidr-hosts-osullivan-geography-lecture-and-geospatial-narratives-workshop">Karl Grossner&#39;s
+summary</a>
+of the events.</p>
+]]></content>
+  </entry>
+  
+</feed>
