@@ -41,11 +41,11 @@ nav:
     url: /labs/
     subcategories:
       - subtitle: "Humanities+Design"
-        suburl: /hdlab/
+        suburl: "http://hdlab.stanford.edu"
       - subtitle: "Spatial History Project"
-        suburl: /shp/
+        suburl: "http://spatialhistory.stanford.edu"
       - subtitle: "Literary Lab"
-        suburl: /litlab/
+        suburl: "http://litlab.stanford.edu"
       - subtitle: "Poetic Media"
         suburl: /poetic/
   - title: "Teaching"

@@ -14,7 +14,7 @@
                       <a href="{{ site.url }}{{ navigation.url }}" class="dropdown-toggle" data-toggle="dropdown">{{navigation.title}}<b class="caret"></b></a>
                       <ul class="dropdown-menu">
                       {% for subcategory in navigation.subcategories %}
-                        <li><a href="{{ site.url }}{{ subcategory.suburl}}">{{ subcategory.subtitle }}</a></li>
+                        <li><a href="{{ subcategory.suburl}}">{{ subcategory.subtitle }}</a></li>
                       {% endfor %}
                       </ul>
                   {% else %}
