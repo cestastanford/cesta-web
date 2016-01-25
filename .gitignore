@@ -4,3 +4,4 @@ _site/*
 *.rtree
 vendor
 Gemfile.lock
+built/
