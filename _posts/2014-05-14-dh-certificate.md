@@ -1,9 +1,11 @@
 ---
 title: Announcing the Graduate Certificate in Digital Humanities
-author: mpbryant
 layout: post
-categories:
-  - Announcements/Opportunities
+author: "Matt Bryant"
+mug: "/images/headshot/mbryant.jpg"
+short_bio: Communications Coordinator, CESTA
+categories: [announcement]
+tags: [announcement]
 ---
 
 The Center for Spatial and Textual Analysis (CESTA) at Stanford is proud to

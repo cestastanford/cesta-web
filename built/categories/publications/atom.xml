@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Publications | ]]></title>
-  <link href="http://localhost:4000/categories/publications/atom.xml" rel="self"/>
-  <link href="http://localhost:4000/"/>
-  <updated>2016-01-27T10:35:55-08:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://dev.cestastanford.org/categories/publications/atom.xml" rel="self"/>
+  <link href="http://dev.cestastanford.org/"/>
+  <updated>2016-01-27T12:44:03-08:00</updated>
+  <id>http://dev.cestastanford.org/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New Publication by Matthew Booker]]></title>
-    <link href="http://localhost:4000/news/publications/2013/04/17/new-publication-by-matthew-booker/"/>
+    <link href="http://dev.cestastanford.org/news/publications/2013/04/17/new-publication-by-matthew-booker/"/>
     <updated>2013-04-17T00:00:00-07:00</updated>
-    <id>http://localhost:4000/news/publications/2013/04/17/new-publication-by-matthew-booker</id>
+    <id>http://dev.cestastanford.org/news/publications/2013/04/17/new-publication-by-matthew-booker</id>
     <content type="html"><![CDATA[<p>Matthew Booker, a close affiliate and collaborator with CESTA, has a new publication out. It contains materials created at the Spatial History Lab, and Matthew&#8217;s work in the lab helped contribute to the final version of the book.</p>
 
 <p><a href="https://cesta.stanford.edu/wp-content/uploads/2013/04/9780520273207.jpg"><img class="aligncenter size-full wp-image-561" title="9780520273207" src="https://cesta.stanford.edu/wp-content/uploads/2013/04/9780520273207.jpg" alt="" width="666" height="1000" /></a></p>
@@ -34,9 +34,9 @@
   
   <entry>
     <title type="html"><![CDATA[Maria Santos Featured in New Publication: “A Look at the Portuguese Carnivores”]]></title>
-    <link href="http://localhost:4000/news/publications/2013/02/13/maria-santos-featured-in-new-publication-a-look-at-the-portuguese-carnivores/"/>
+    <link href="http://dev.cestastanford.org/news/publications/2013/02/13/maria-santos-featured-in-new-publication-a-look-at-the-portuguese-carnivores/"/>
     <updated>2013-02-13T00:00:00-08:00</updated>
-    <id>http://localhost:4000/news/publications/2013/02/13/maria-santos-featured-in-new-publication-a-look-at-the-portuguese-carnivores</id>
+    <id>http://dev.cestastanford.org/news/publications/2013/02/13/maria-santos-featured-in-new-publication-a-look-at-the-portuguese-carnivores</id>
     <content type="html"><![CDATA[<p>Our very own Maria Santos is included in a new publication, details below. Congrats Maria!</p>
 
 <p><a href="https://cesta.stanford.edu/wp-content/uploads/2013/02/IMG_20130124_1718191.jpg"><img class="aligncenter size-large wp-image-443" title="IMG_20130124_171819" src="https://cesta.stanford.edu/wp-content/uploads/2013/02/IMG_20130124_1718191-768x1024.jpg" alt="" width="768" height="1024" /></a></p>

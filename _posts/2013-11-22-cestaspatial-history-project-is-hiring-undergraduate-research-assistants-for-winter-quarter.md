@@ -1,9 +1,11 @@
 ---
 title: CESTA/Spatial History Project is Hiring Undergraduate Research Assistants for Winter Quarter
-author: mpbryant
 layout: post
-categories:
-  - Job Announcements/Opportunities
+author: "Matt Bryant"
+mug: "/images/headshot/mbryant.jpg"
+short_bio: Communications Coordinator, CESTA
+categories: [announcement]
+tags: [announcement]
 ---
 The Spatial History Project within the Center for Spatial and Textual Analysis (CESTA) at Stanford seeks to hire undergraduate Research Assistants to work on a variety of digital projects based in humanities scholarship at the nexus of history, English, art, and geography. We seek students who bring practical knowledge or interest in information design and the development of interactive visualization tools for humanities research.
 

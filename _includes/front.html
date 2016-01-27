@@ -1,10 +1,17 @@
 
+<script type="text/javascript">
+$(function() {
+  var images= ["header3.png", "header4.png", "header5.jpg", "header6.png", "header7.png", "header8.jpg"];
+  $(".feature-banner-image").attr("src", "/images/" + images[Math.floor(Math.random() * images.length)]);
+});
+</script>
+
 <div class="overview">
   <div class="feature-banner">
     <div class="feature-banner-text">
       {{ site.description }}
     </div>
-    <img class="feature-banner-image" src="{{site.url}}/images/header4.png"/>
+    <img class="feature-banner-image" src="{{site.url}}/images/header3.png"/>
   </div>
 </div>
 

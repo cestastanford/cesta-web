@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "New Article in Journal of American History"
-author: jheppler
 date: 2014-05-30 09:49
-categories:
-  - News
+author: "Matt Bryant"
+mug: "/images/headshot/mbryant.jpg"
+short_bio: Communications Coordinator, CESTA
+categories: [announcement]
+tags: [announcement]
 ---
 
 The June 2014 issue of the *Journal of American History* includes an article

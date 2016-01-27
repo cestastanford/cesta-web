@@ -2,7 +2,11 @@
 layout: post
 title: "Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science"
 date: 2015-06-08 13:43
-categories: news
+author: "Jason Heppler"
+mug: "/images/headshot/jheppler.jpg"
+short_bio: Jason Heppler is the Academic Technology Specialist in the Department of History at Stanford University and a Ph.D. candidate in History at the University of Nebraska-Lincoln
+categories: [announcement]
+tags: [announcement]
 ---
 
 On May 7th, Stanford University Libraries' Center for Interdisciplinary Digital

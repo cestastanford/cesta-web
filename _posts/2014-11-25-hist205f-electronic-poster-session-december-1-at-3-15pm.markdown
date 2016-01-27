@@ -2,7 +2,11 @@
 layout: post
 title: "HIST205F Electronic Poster Session, December 1 at 3:15pm"
 date: 2014-11-25 09:55
-categories: news, announcements
+author: "Jason Heppler"
+mug: "/images/headshot/jheppler.jpg"
+short_bio: Jason Heppler is the Academic Technology Specialist in the Department of History at Stanford University and a Ph.D. candidate in History at the University of Nebraska-Lincoln
+categories: [announcement]
+tags: [announcement]
 ---
 You are cordially invited to attend the final presentations by the [HIST205F:
 Digital History](http://jasonheppler.org/teaching/hist205f.2014/) students!

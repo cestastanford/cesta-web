@@ -17,7 +17,8 @@ redcarpet:
 highlighter:  rouge
 description:  "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University."
 destination:  'built'
-url:          'http://localhost:4000' # Change when going live
+url:          'http://dev.cestastanford.org'
+baseurl:      'http://dev.cestastanford.org'
 permalink:    pretty
 twitter:      'CESTA_Stanford'
 facebook:     'cesta.stanford'
@@ -66,9 +67,9 @@ nav:
     url: /affiliates/
     subcategories:
       - subtitle: "Stanford Humanities Center"
-        url: "http://shc.stanford.edu"
+        suburl: "http://shc.stanford.edu"
       - subtitle: "DH@Stanford"
-        url: "http://digitalhumanities.stanford.edu"
+        suburl: "http://digitalhumanities.stanford.edu"
 
 ###
 # Exclude

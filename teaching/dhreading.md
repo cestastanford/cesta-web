@@ -14,7 +14,7 @@ Current schedule for 2016 winter and spring quarters:
 | -------- | ---------------------------------------------------- |
 | Feb. 4   | Text Analysis - Readings and Discussion              |
 | Feb. 18  | Text Analysis - Practicum                            |
-| Mar. 3   | Working Paper (Fred Frederico)                       |
+| Mar. 3   | Working Paper (Frederico Freitas)                    |
 | Mar. 17  | Data Management - Readings and Discussion            |
 | Mar. 31  | Data Management - Practicum                          |
 | Apr. 14  | Job Search and Pedagogy - Readings and Discussion    |

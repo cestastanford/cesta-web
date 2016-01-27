@@ -2,7 +2,11 @@
 layout: post
 title: "Digital Humanities at Stanford"
 date: 2015-07-02 13:47
-categories: news
+author: "Jason Heppler"
+mug: "/images/headshot/jheppler.jpg"
+short_bio: Jason Heppler is the Academic Technology Specialist in the Department of History at Stanford University and a Ph.D. candidate in History at the University of Nebraska-Lincoln
+categories: [announcement]
+tags: [announcement]
 ---
 
 The [Stanford Humanities Center](http://shc.stanford.edu/digital-humanities) is highlighting some of the work being done by digital humanities scholars around Stanford University, including several members and associates of CESTA. The full collection of videos produced by SHC can be [found online](http://shc.stanford.edu/video-category/digital-humanities).

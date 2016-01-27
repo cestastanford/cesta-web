@@ -3,16 +3,49 @@
   <channel>
     <title>Center for Spatial and Textual Analysis</title>
     <description>The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://dev.cestastanford.org</link>
+    <atom:link href="http://dev.cestastanford.org/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Digital Humanities Skills Workshop</title>
-        <description>&lt;p&gt;As part of Digital Humanities: Asia, Nicole Coleman and Jason Heppler are running a series of workshops at the Center for Spatial and Textual Analysis.&lt;/p&gt;
+        <description>&lt;p&gt;As part of Digital Humanities: Asia, Nicole Coleman and Jason Heppler are running a series of workshops at the Center for Spatial and Textual Analysis. If you are interested in learning more about Digital Humanities tools and techniques or want to prepare for the upcoming DHAsia workshops (&lt;a href=&quot;http://dhasia.org/&quot;&gt;http://dhasia.org/&lt;/a&gt;), bring a laptop and dig into the following sessions co-sponsored by CIDR, CESTA, and the DH Focal Group.&lt;/p&gt;
+
+&lt;p&gt;All sessions will be held at CESTA in rm 433A unless otherwise specified.&lt;/p&gt;
+
+&lt;h3&gt;DATA WRANGLING WITH PYTHON&lt;/h3&gt;
+
+&lt;p&gt;David McClure, a developer at the Library&amp;#39;s Center for Interdisciplinary Digital Research, will teach a two- part workshop to introduce techniques for cleaning and managing messy data with Python.
+If you are interested in using Python for network analysis, you may be interested in the NetworkX workshop on 2/15.&lt;/p&gt;
+
+&lt;p&gt;Part 1: Monday, January 11, 2 p.m. - 4 p.m.&lt;/p&gt;
+
+&lt;p&gt;Part 2: Monday, January 25, 2 p.m. - 4 p.m.&lt;/p&gt;
+
+&lt;h3&gt;OMEKA&lt;/h3&gt;
+
+&lt;p&gt;Jason Heppler, the ATS for History and member of CIDR will get you up and running with Omeka (&lt;a href=&quot;http://omeka.org/&quot;&gt;http://omeka.org/&lt;/a&gt;) an open source platform for digital publishing and exhibit building. If you are interested in Neatline, this workshop will familiarize you with the underlying platform.
+Thursday, January 14, 2 p.m. - 4 p.m.&lt;/p&gt;
+
+&lt;h3&gt;NEATLINE&lt;/h3&gt;
+
+&lt;p&gt;David McClure, one of the Neatline developers and now part of the CIDR team in the Library will take you through the process of building an interactive spatial and temporal exhibit with Neatline (&lt;a href=&quot;http://neatline.org/&quot;&gt;http://neatline.org/&lt;/a&gt;), a set of add on tools for Omeka. (See the 1/14 Omeka workshop above.)
+Monday, February 1, 2 p.m.- 4 p.m.&lt;/p&gt;
+
+&lt;h3&gt;PALLADIO&lt;/h3&gt;
+
+&lt;p&gt;The Digital Humanities Focal Group is hosting this introduction to Palladio, a suite of visualization tools for data exploration. (&lt;a href=&quot;http://palladio.designhumanities.org&quot;&gt;http://palladio.designhumanities.org&lt;/a&gt;) This workshop will take place in Building 260, Room 252.&lt;/p&gt;
+
+&lt;p&gt;Monday, January 25, 12:00-1:30 p.m.&lt;/p&gt;
+
+&lt;h3&gt;NETWORKS&lt;/h3&gt;
+
+&lt;p&gt;The introductory session in this two-part series will show you how to prepare a data set for network analysis and then visualize that data set with Gephi and/or Cytoscape. We will also share examples of network analysis in humanities research. The second session, taught by Sebastian Ahnert, will provide an introduction to the Python package for network analysis, NetworkX. If you are not familiar with Python, the sessions taught by Dave McClure beginning January 11 will prepare you for this session.
+Part 1, Introduction to Networks for Humanists: Monday, February 8, 2 p.m. - 4 p.m.
+Part 2, Network Analysis and NetworkX: Monday, February 22, 2 p.m. - 4 p.m.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//workshop/2016/01/12/dh-skills-workshop/</link>
-        <guid isPermaLink="true">http://localhost:4000//workshop/2016/01/12/dh-skills-workshop/</guid>
+        <link>http://dev.cestastanford.org//workshop/2016/01/12/dh-skills-workshop/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//workshop/2016/01/12/dh-skills-workshop/</guid>
       </item>
     
       <item>
@@ -48,8 +81,8 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IycpOCdzTIc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 02 Jul 2015 13:47:00 -0700</pubDate>
-        <link>http://localhost:4000//news/2015/07/02/digital-humanities-at-stanford/</link>
-        <guid isPermaLink="true">http://localhost:4000//news/2015/07/02/digital-humanities-at-stanford/</guid>
+        <link>http://dev.cestastanford.org//announcement/2015/07/02/digital-humanities-at-stanford/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//announcement/2015/07/02/digital-humanities-at-stanford/</guid>
       </item>
     
       <item>
@@ -64,8 +97,8 @@ summary&lt;/a&gt;
 of the events.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jun 2015 13:43:00 -0700</pubDate>
-        <link>http://localhost:4000//news/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science/</link>
-        <guid isPermaLink="true">http://localhost:4000//news/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science/</guid>
+        <link>http://dev.cestastanford.org//announcement/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//announcement/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science/</guid>
       </item>
     
       <item>
@@ -75,8 +108,8 @@ of the events.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uNtB6Sf5Kjc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 05 May 2015 13:53:00 -0700</pubDate>
-        <link>http://localhost:4000//events/news,/2015/05/05/humanities-plus-digital-at-the-stanford-humanities-center/</link>
-        <guid isPermaLink="true">http://localhost:4000//events/news,/2015/05/05/humanities-plus-digital-at-the-stanford-humanities-center/</guid>
+        <link>http://dev.cestastanford.org//events/2015/05/05/humanities-plus-digital-at-the-stanford-humanities-center/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//events/2015/05/05/humanities-plus-digital-at-the-stanford-humanities-center/</guid>
       </item>
     
       <item>
@@ -105,15 +138,15 @@ Monday, December 1, 3:15pm-5:00pm&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Light refreshments will be provided.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Nov 2014 09:55:00 -0800</pubDate>
-        <link>http://localhost:4000//announcements/news,/2014/11/25/hist205f-electronic-poster-session-december-1-at-3-15pm/</link>
-        <guid isPermaLink="true">http://localhost:4000//announcements/news,/2014/11/25/hist205f-electronic-poster-session-december-1-at-3-15pm/</guid>
+        <link>http://dev.cestastanford.org//announcement/2014/11/25/hist205f-electronic-poster-session-december-1-at-3-15pm/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//announcement/2014/11/25/hist205f-electronic-poster-session-december-1-at-3-15pm/</guid>
       </item>
     
       <item>
         <title>New Multimedia Publication: Mapping Mobility in the Budapest Ghetto</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/budapest_preview.png&quot; alt=&quot;Mapping Mobility in the Budapest Ghetto&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;In collaboration with the United States Holocaust Memorial Museum (USHMM.org), the Spatial History Project is pleased to announce the release of an interactive multimedia publication entitled &amp;quot;&lt;a href=&quot;http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=411&amp;amp;project_id=&quot;&gt;Mapping Mobility in the Budapest Ghetto&lt;/a&gt;.&amp;quot;&lt;/p&gt;
 
-&lt;p&gt;In collaboration with the United States Holocaust Memorial Museum (USHMM.org), the Spatial History Project is pleased to announce the release of an interactive multimedia publication entitled &amp;quot;&lt;a href=&quot;http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=411&amp;amp;project_id=&quot;&gt;Mapping Mobility in the Budapest Ghetto&lt;/a&gt;.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/budapest_preview.png&quot; alt=&quot;Mapping Mobility in the Budapest Ghetto&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;The project features research by historian &lt;strong&gt;Tim Cole&lt;/strong&gt; and geographer &lt;strong&gt;Alberto Giordano&lt;/strong&gt; of the Holocaust Geographies Collaborative, an international research group affiliated with the Spatial History Project.  The multimedia publication investigates news ways of understanding the experience and definition of the ghetto in 1944 Budapest. Combining traditional historical research methods with network analysis and computer simulation, we modeled how the Jewish population may have been distributed in the city. The resulting animation shows, moment by moment, how restrictions in space (where Jews could and could not live) and time (when Jews could leave their homes) created a distorted geography that led to different levels of mobility, access, and vulnerability.&lt;/p&gt;
 
@@ -121,8 +154,8 @@ Monday, December 1, 3:15pm-5:00pm&lt;/strong&gt;&lt;/p&gt;
 Audio Production: &lt;strong&gt;Sophia Paliza-Carre &amp;#39;13&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Jun 2014 14:21:00 -0700</pubDate>
-        <link>http://localhost:4000//news/2014/06/27/new-multimedia-publication-mapping-mobility-in-the-budapest-ghetto/</link>
-        <guid isPermaLink="true">http://localhost:4000//news/2014/06/27/new-multimedia-publication-mapping-mobility-in-the-budapest-ghetto/</guid>
+        <link>http://dev.cestastanford.org//announcement/2014/06/27/new-multimedia-publication-mapping-mobility-in-the-budapest-ghetto/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//announcement/2014/06/27/new-multimedia-publication-mapping-mobility-in-the-budapest-ghetto/</guid>
       </item>
     
       <item>
@@ -142,8 +175,8 @@ component&lt;/a&gt;
 visualizing his findings and discussing the article&amp;#39;s digital foundation.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 May 2014 09:49:00 -0700</pubDate>
-        <link>http://localhost:4000//news/2014/05/30/new-article-in-journal-of-american-history/</link>
-        <guid isPermaLink="true">http://localhost:4000//news/2014/05/30/new-article-in-journal-of-american-history/</guid>
+        <link>http://dev.cestastanford.org//announcement/2014/05/30/new-article-in-journal-of-american-history/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//announcement/2014/05/30/new-article-in-journal-of-american-history/</guid>
       </item>
     
       <item>
@@ -254,8 +287,8 @@ information about the new GDCH program or CESTA in general, please see
 email above.&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 May 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//announcements/opportunities/2014/05/14/dh-certificate/</link>
-        <guid isPermaLink="true">http://localhost:4000//announcements/opportunities/2014/05/14/dh-certificate/</guid>
+        <link>http://dev.cestastanford.org//announcement/2014/05/14/dh-certificate/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//announcement/2014/05/14/dh-certificate/</guid>
       </item>
     
       <item>
@@ -298,8 +331,8 @@ This project is an exploration with a point of origin in how regional utilizatio
 &lt;p&gt;Please share this announcement with anyone who you feel might be interested.&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Nov 2013 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//job%20announcements/opportunities/2013/11/22/cestaspatial-history-project-is-hiring-undergraduate-research-assistants-for-winter-quarter/</link>
-        <guid isPermaLink="true">http://localhost:4000//job%20announcements/opportunities/2013/11/22/cestaspatial-history-project-is-hiring-undergraduate-research-assistants-for-winter-quarter/</guid>
+        <link>http://dev.cestastanford.org//announcement/2013/11/22/cestaspatial-history-project-is-hiring-undergraduate-research-assistants-for-winter-quarter/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//announcement/2013/11/22/cestaspatial-history-project-is-hiring-undergraduate-research-assistants-for-winter-quarter/</guid>
       </item>
     
       <item>
@@ -320,8 +353,8 @@ Rm. 433A, Fourth Floor of Wallenberg Hall&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Since 2006, he has been studying the records of the Anza expeditions to California in the 1770s. These provide valuable baseline descriptions of aquatic habitats prior to significant modification by European influence. He is in the process of revisiting all the sites described by Anza to determine the relative health of the remaining aquatic habitats.&lt;span style=&quot;font-family: Times New Roman,Times,serif;&quot;&gt;&lt;br /&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//2013/11/01/cesta-presents-christopher-richard-myth-busting-the-founding-of-san-francisco-dec-2nd-noon/</link>
-        <guid isPermaLink="true">http://localhost:4000//2013/11/01/cesta-presents-christopher-richard-myth-busting-the-founding-of-san-francisco-dec-2nd-noon/</guid>
+        <link>http://dev.cestastanford.org//2013/11/01/cesta-presents-christopher-richard-myth-busting-the-founding-of-san-francisco-dec-2nd-noon/</link>
+        <guid isPermaLink="true">http://dev.cestastanford.org//2013/11/01/cesta-presents-christopher-richard-myth-busting-the-founding-of-san-francisco-dec-2nd-noon/</guid>
       </item>
     
   </channel>
