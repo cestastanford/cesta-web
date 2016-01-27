@@ -1,7 +1,7 @@
 ---
 title: Mapping People Symposium at the University of Redlands
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:

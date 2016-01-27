@@ -1,13 +1,13 @@
 ---
 title: 'CESTA Presents Christopher Richard &#8211; Myth Busting the Founding of San Francisco &#8211; Dec. 2nd @ Noon'
 author: mpbryant
-layout: stanford-post
+layout: post
 tags:
   - CESTA Presents
 ---
 <span><strong>Myth Busting the Founding of San Francisco – The Anza Expedition and the Role of Aquatic Habitats in the Siteing of Mission Dolores</strong></span>
 
-Monday, December 2nd @ Noon  
+Monday, December 2nd @ Noon
 Rm. 433A, Fourth Floor of Wallenberg Hall
 
 <span style="font-size: small;">Juan Bautista de Anza chose the locations for the mission and presidio in San Francisco in March 1776. Anza and his chaplain, Fr. Font, spent three days analyzing the agricultural and strategic potential of the various neighborhoods of San Francisco before siteing the mission and presidio. They gave the name <em>Dolors </em>to the water supply that they expected to provide for agriculture at the mission. Three months later when the settlers arrived, the writings of the pastor, Fr. Palou, reinterpreted the water feature named Dolores.</span>

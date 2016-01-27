@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Announcements/Opportunities | ]]></title>
   <link href="http://localhost:4000/categories/announcements-opportunities/atom.xml" rel="self"/>
   <link href="http://localhost:4000/"/>
-  <updated>2016-01-25T09:59:00-08:00</updated>
+  <updated>2016-01-27T10:35:55-08:00</updated>
   <id>http://localhost:4000/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Announcing the Graduate Certificate in Digital Humanities]]></title>
-    <link href="http://localhost:4000/2014/05/14/dh-certificate/"/>
+    <link href="http://localhost:4000/announcements/opportunities/2014/05/14/dh-certificate/"/>
     <updated>2014-05-14T00:00:00-07:00</updated>
-    <id>http://localhost:4000/2014/05/14/dh-certificate</id>
+    <id>http://localhost:4000/announcements/opportunities/2014/05/14/dh-certificate</id>
     <content type="html"><![CDATA[<p>The Center for Spatial and Textual Analysis (CESTA) at Stanford is proud to
 announce a new graduate certificate in digital humanities program, starting fall
 quarter 2014. Please see below for details.</p>

@@ -1,5 +1,5 @@
 ---
-layout: stanford-post
+layout: post
 title: "Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science"
 date: 2015-06-08 13:43
 categories: news

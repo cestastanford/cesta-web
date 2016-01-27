@@ -1,7 +1,7 @@
 ---
 title: CESTA Crowdsourcing Projects in the Stanford News
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Job Announcements/Opportunities
 ---
@@ -13,15 +13,15 @@ The Spatial History Project is now accepting applications for paid undergraduate
 
 Enchanting the Desert uses the 1930s narrated photographic slideshows of Zion and Grand Canyon National Parks made by Henry Peabody as its launching point.  While the immediate goal of the project is to make these slideshows accessible in a multi-media, online format, one of its deeper goals is to interpret Peabody’s landscape images from the perspective of contemporary 1930s geographical theorist Richard Hartshorne.  To do this, a series of viewing options, or modes, will be constructed, each augmenting the original slideshows in ways that meaning – both from human stories and fauna population data – changes the experience of viewing the slideshows.
 
-The project seeks one undergraduate Research Assistant, whose skillsets and interests should include some or most of the following:  
-- History of photography  
-- Historical geography of U.S. National Parks  
-- Excellent library/archive research skills  
-- Desire to think creatively about how to wed geographical information with photographs  
-- Software: web design, GIS, Photoshop, Illustrator  
-- Desire to create new online environments  
-- Excitement for careful, close reading of slideshow narratives  
-- Field biology (especially historical fauna survey data)  
+The project seeks one undergraduate Research Assistant, whose skillsets and interests should include some or most of the following:
+- History of photography
+- Historical geography of U.S. National Parks
+- Excellent library/archive research skills
+- Desire to think creatively about how to wed geographical information with photographs
+- Software: web design, GIS, Photoshop, Illustrator
+- Desire to create new online environments
+- Excitement for careful, close reading of slideshow narratives
+- Field biology (especially historical fauna survey data)
 - Folklore
 
 Work on this project will begin at the onset of Winter Quarter 2013.
@@ -78,7 +78,7 @@ The undergraduate Research Assistant will help develop materials and concepts in
 
 Preferred candidates will have a theoretical/conceptual interest and some background in social media, website development, and game design. Also important is an interest in environmental history and the use of maps, photographs, and other primary source documents. Technical proficiency in website design (HTML 5, CSS, JavaScript) and web mapping (OpenLayers, Google Maps API) is a plus, but not required. The Research Assistant will collaborate with researchers located off campus, and will be independently motivated and well organized, with excellent communication skills. The position is only open to current Stanford undergraduate students and will begin immediately.
 
-**TO APPLY**  
+**TO APPLY**
 Current Stanford undergraduate students are eligible to apply, including those who qualify for Federal Work Study funding. Pay rate is $15 per hour. Please note that Stanford restricts the total number of hours worked by each student during any one quarter to ten. Interested applicants should submit the following to Matt Bryant (mattbryant.stanford@gmail.com) by **5pm on Friday, Oct. 26th:**
 
 *   **Cover Letter** outlining your strengths and specifying which project(s) you&#8217;re interested in working with and why****

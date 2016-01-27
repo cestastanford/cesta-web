@@ -1,7 +1,7 @@
 ---
 title: Humanities + Design Receives NEH Grant!
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
 tags:
@@ -15,72 +15,72 @@ tags:
     <h2>
       Stanford digital humanities researchers receive NEH grant
     </h2>
-    
+
     <div>
       August 19th, 2013
     </div>
-    
+
     <div>
       <p>
         <a href="http://news.stanford.edu/thedish/wp-content/uploads/2013/08/Mapping-6.jpg"><img src="http://news.stanford.edu/thedish/wp-content/uploads/2013/08/Mapping-6-568x379.jpg" alt="Mapping-6" width="568" height="379" /></a>
       </p>
-      
+
       <p>
         <a href="http://news.stanford.edu/thedish/?p=28825" target="_blank">Humanities+Design at Stanford</a>
       </p>
-      
+
       <p>
         A grant from the National Endowment for the Humanities (NEH) will enable Stanford researchers to develop a suite of network visualization tools specifically designed for humanities research.
       </p>
-      
+
       <p>
         <strong><a href="http://republicofletters.stanford.edu/people/index.html">DAN EDELSTEIN</a></strong>, an associate professor of French, and history Professor <strong><a href="http://history.stanford.edu/findlen_paula">PAULA FINDLEN</a></strong> are the principal investigators of “Networks in History,” which was awarded nearly $300,000 from the NEH.
       </p>
-      
+
       <p>
         The grant will allow Edelstein, Findlen and their colleagues to build on visualization tools they developed for <a href="http://republicofletters.stanford.edu/">Mapping the Republic of Letters</a>, a Stanford digital humanities endeavor that is using technology to analyze the circulation of people, letters and objects during the 17th and 18th centuries.
       </p>
-      
+
       <p>
         Drawing from an array of digitized materials from the Stanford University Libraries, Oxford University, Bibliotheque National de France, Centre National de la Recherché Scientifique and other archives around the globe, Mapping the Republic of Letters projects have given scholars new perspectives on the social networks that connected the intellectuals of the European Enlightenment.
       </p>
-      
+
       <p>
         A scholar of 18th-century French history and literature, Edelstein has been using metadata provided by the Electronic Enlightenment Project at Oxford University to situate <a href="http://republicofletters.stanford.edu/casestudies/voltaire/index.html">Voltaire’s correspondence network</a> within the broader Enlightenment Republic of Letters.
       </p>
-      
+
       <p>
         However, as Findlen, Edelstein and other humanities scholars experimented with the data through a range of case studies, including interactive visual representations of <a href="http://republicofletters.stanford.edu/casestudies/franklin/index.html">Benjamin Franklin</a>’s and <a href="http://republicofletters.stanford.edu/casestudies/locke/index.html">John Locke</a>’s social networks, they discovered the tools were lacking.
       </p>
-      
+
       <p>
         “Almost all of the data visualization tools that are currently available have been designed with modern data sets in mind,” Edelstein said. Existing tools, such as those for statistical, literary and spatial analysis, “don’t work well for historical data, which tends to be messy and incomplete,” he added.
       </p>
-      
+
       <p>
         <strong>NICOLE COLEMAN</strong>, the academic technology specialist who contributed to the development of each of the Mapping the Republic of Letters case studies, said that as she and the researchers built those visualizations they didn’t realize they were at the “beginning of a deep exploration of how to use graphical interfaces for humanistic inquiry.”
       </p>
-      
+
       <p>
         <strong>Customized tools</strong>
       </p>
-      
+
       <p>
         For example, to explore travel on the famed Grand Tour, the team created an interactive version of Joseph Priestley’s<em> A Chart of Biography. </em>Written in 1765, it traces significant figures throughout history and is one the earliest such timelines. With the digital version, scholars can pan and zoom, click through layers of information, and sort and filter according to any number of attributes associated with individuals represented in the database.
       </p>
-      
+
       <p>
         Traditional computational visualization formats, like graphs, bar charts and scatterplots, can be abstract, but Coleman said customized tools contextualize fragmentary information and “make visible possible connections that are not otherwise in the data.”
       </p>
-      
+
       <p>
         With this more nuanced representation of the data, the researchers “will be able to map not just the exchange of letters, but any type of location-associated data like place of birth, place of publication, travel, etc.,” Coleman said.
       </p>
-      
+
       <p>
         The specialized suite of tools will be designed “so that anyone interested in history can easily use them,” said Edelstein. Open source modules, or “widgets,” will benefit all walks of researchers, from amateur historians to high school students, though Edelstein noted that scholars working on the Scientific Revolution and Enlightenment “will probably benefit the most from this work, since they can use the tools as well as the data, and even upload data sets of their own.”
       </p>
-      
+
       <p>
         <em>—CORRIE GOLDMAN, <a href="http://humanexperience.stanford.edu">The Humanities at Stanford</a></em>
       </p>

@@ -10,11 +10,8 @@
   }
 
   function showInfo(data, tabletop) {
-    //console.log("full data", data);
     var tableNames = tabletop.sheets("people").elements;
-    //console.log("tableNames", tableNames);
     var names = Object.keys(tableNames);
-    //console.log("names", names);
 
     function getName(d) {
       var name = d['full_name'];
@@ -23,22 +20,31 @@
 
     var combined = [];
     tableNames.forEach(function(d) {
-      console.log("foreach", d);
        var c = {
         name: getName(d),
-        department: d['Department']
-       }
+        department: d['Department or Organization']
+       };
        combined.push(c);
-      //var entries = name;
-      //console.log("entries", entries);
-    })
-    console.log(combined);
 
-    d3.select("#people-layout")
+      render(combined);
+    });
+    // console.log(combined);
+
+    d3.select("#media-list")
       .data(combined)
     .enter().append("div");
-
-    //console.log("Successfully processed!");
-    //console.log(tabletop.sheets('people'));
-    //console.table(data.sheets("people"));
   }
+
+  function render(combined) {
+      var peoples = d3.select("#peoples").selectAll("div.people")
+        .data(combined);
+
+      var people_enter = peoples.enter().append("div")
+        .classed("people-block", true)
+        .text(function(d) { return d.name; })
+
+      var denter = people_enter.append("p")
+        .classed("department", true)
+        .text(function(d) { return d.department;})
+
+ }

@@ -1,7 +1,7 @@
 ---
 title: New Publication by Matthew Booker
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
   - Publications

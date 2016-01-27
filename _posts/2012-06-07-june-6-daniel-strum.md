@@ -1,7 +1,7 @@
 ---
 title: 'June 6 &#8211; Daniel Strum'
 author: cnc
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:

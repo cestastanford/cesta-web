@@ -1,7 +1,7 @@
 ---
 title: 'The View and The Value: Historical Geography of Signs in San Francisco'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 ---

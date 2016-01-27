@@ -1,7 +1,7 @@
 ---
 title: 'Job Announcement: Academic Technology Specialist'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Hestia2 Workshop at CESTA &#8211; Nov. 4-5'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:
@@ -10,12 +10,12 @@ tags:
   - networks
   - workshops
 ---
-**Hestia2@Stanford: Visualizing Complex Networks  
-450 Serra Mall, Building 160, Rm 433A  
-Stanford, CA 94305**  
+**Hestia2@Stanford: Visualizing Complex Networks
+450 Serra Mall, Building 160, Rm 433A
+Stanford, CA 94305**
 **<a href="http://hestia.open.ac.uk/" target="_blank">http://hestia.open.ac.uk/</a>**
 
-**November 4, 2013, 12:00 &#8211; 5:00 p.m. and  
+**November 4, 2013, 12:00 &#8211; 5:00 p.m. and
 November 5, 2013, 9:00 a.m. &#8211; 5:00 p.m.**
 
 The Center for Spatial and Textual Analysis will host the next Hestia2 event November 4-5 in Wallenberg Hall at Stanford University. During this one and one half day seminar we will explore network analysis and uncertainty in data from a number of different perspectives. It will also be an unveiling of a number of new projects.

@@ -230,3 +230,75 @@ header.navbar.navbar-default {
 	margin: 0 auto;
 	display: block;
 }
+
+/* People page */
+/*.people,
+.people .people {
+  margin-top: 15px;
+}
+.people-list {
+  padding-left: 0;
+  list-style: none;
+  float: left;
+}
+.people-list li {
+  list-style: none;
+}
+.people,
+.people-body {
+  overflow: hidden;
+  zoom: 1;
+}
+.people-object {
+  display: block;
+}*/
+.people-body {
+}
+
+.person-name {
+	font-size: 14px;
+}
+
+.img-resized {
+	height: auto;
+	width: 35%;
+	float: left;
+	margin: 5px;
+}
+/*img {
+  vertical-align: middle;
+  border: 0;
+}
+.people:first-child {
+  margin-top: 0;
+}
+.people-object {
+  display: block;
+}
+.people-heading {
+  margin: 0 0 5px;
+}
+.people > .pull-left {
+  margin-right: 10px;
+}
+.people > .pull-right {
+  margin-left: 10px;
+}
+.people-list {
+  padding-left: 0;
+  list-style: none;
+}*/
+small {
+  color: #999;
+}
+
+figcaption {
+  color: #999;
+  display: block;
+  font-size: .8em;
+  text-align: center;
+  padding-top: 10px;
+  clear: both;
+  font-style: italic;
+  padding-bottom: 15px;
+}

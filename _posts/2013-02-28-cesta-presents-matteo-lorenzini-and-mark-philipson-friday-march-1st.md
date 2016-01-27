@@ -1,7 +1,7 @@
 ---
 title: 'CESTA Presents: Matteo Lorenzini and Mark Philipson &#8211; Friday March 1st'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:
@@ -21,14 +21,14 @@ This district is being studied since the 19th century and, currently, is the obj
 
 My approach integrates geo-statistical analysis with the semantic representation of archaeological evidences. Distributive and predictive models are being created in a GIS open source platform that integrates the Maximum Entropy algorithm (MAXENT) and the R statistical package with GRASS GIS. In addition, my work researches on the semantic representation of archaeological features as a crucial component in landscape analysis. This kind of representation will be modeled in the Geographical Information System together with the spatial component in order to connect the local database with external sources, offering additional data for landscape analysis.
 
-**  
+**
 <span style="font-size: large;">Mediathread<br /> Mark Philipson<br /> 12:30 &#8211; 1:15pm</span>**
 
 Mediathread is an open-source platform for exploration, analysis, and organization of web-based multimedia content.
 
 Mediathread connects to a variety of image and video collections (such as YouTube, Flickr, library databases, and course libraries), enabling users to lift items out of these collections and into an analysis environment. In Mediathread, items can then be clipped, annotated, organized, and embedded into essays and other written analysis.
 
-More details can be found at <a href="http://ccnmtl.columbia.edu/our_services/tools/mediathread/" target="_blank">http://ccnmtl.columbia.edu/<wbr>our_services/tools/<wbr>mediathread/</wbr></wbr></a>  
+More details can be found at <a href="http://ccnmtl.columbia.edu/our_services/tools/mediathread/" target="_blank">http://ccnmtl.columbia.edu/<wbr>our_services/tools/<wbr>mediathread/</wbr></wbr></a>
 Presentations will take place in CESTA on the fourth floor of Wallenberg Hall (Building 160). Lunch will be provided.
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 title: Press for Rebooting History East Palo Alto Project
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
 tags:

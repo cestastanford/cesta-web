@@ -1,7 +1,7 @@
 ---
 title: 'CESTA Presents: Two Talks &#8211; Jim Tice/Erik Steiner, and Nicholas Bauch'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:
@@ -11,10 +11,10 @@ tags:
 ---
 Please join us for two upcoming CESTA Presents talks:
 
-#### **The GIS Forma Urbis Romae Project: Creating a Layered History of Rome**  
-**Jim Tice, Dept. of Architecture, University of Oregon**  
-**Erik Steiner, CESTA/Spatial History Project, Stanford**  
-**Tuesday, August 21st @ Noon**  
+#### **The GIS Forma Urbis Romae Project: Creating a Layered History of Rome**
+**Jim Tice, Dept. of Architecture, University of Oregon**
+**Erik Steiner, CESTA/Spatial History Project, Stanford**
+**Tuesday, August 21st @ Noon**
 **Grand Central, Fourth Floor, Wallenberg Hall (Building 160)**
 
 <div id="attachment_219" class="wp-caption aligncenter" style="width: 473px">
@@ -29,9 +29,9 @@ The GIS Forma Urbis Romae Project: Creating a Layered History of Rome seeks to r
 
 \***\***\***\***\***\***\***\***\***\***\***\***
 
-**Zion and Grand Canyon National Parks: The1930s narrated slideshows of Henry G. Peabody**  
-**Nicholas Bauch, Lecturer Thinking Matters Program, Stanford University**  
-**Wednesday, August 22nd @ Noon  
+**Zion and Grand Canyon National Parks: The1930s narrated slideshows of Henry G. Peabody**
+**Nicholas Bauch, Lecturer Thinking Matters Program, Stanford University**
+**Wednesday, August 22nd @ Noon
 Grand Central, Fourth Floor, Wallenberg Hall (Building 160)**
 
 <div id="attachment_229" class="wp-caption aligncenter" style="width: 310px">
@@ -40,7 +40,7 @@ Grand Central, Fourth Floor, Wallenberg Hall (Building 160)**
   </p>
 </div>
 
-In this presentation I share the landscape photography of Henry G. Peabody, who between the 1880s and 1940s traveled extensively throughout North America producing images for various publishing companies, and for his own educational slideshows.  I am attempting to  
+In this presentation I share the landscape photography of Henry G. Peabody, who between the 1880s and 1940s traveled extensively throughout North America producing images for various publishing companies, and for his own educational slideshows.  I am attempting to
 recreate two of his narrated slideshows that focus on Zion and Grand Canyon National Parks with materials from the Huntington Library archive.  My hope is to design online experiences of these slideshows from viewpoints of the photographer, the historical geographer situated in 2012, and the spatially-minded artist who is able to take liberties with the images and their original appended textual meanings.
 
 Doors and elevator will be unlocked for these events. Please contact Matt Bryant if you have any questions 650-721-1385, or mpbryant@stanford.edu

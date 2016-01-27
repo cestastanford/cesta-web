@@ -1,7 +1,7 @@
 ---
 title: Welcome to the new CESTA Blog!
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
 tags:

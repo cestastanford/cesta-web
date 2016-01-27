@@ -1,7 +1,7 @@
 ---
 title: Announcing the Graduate Certificate in Digital Humanities
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Announcements/Opportunities
 ---

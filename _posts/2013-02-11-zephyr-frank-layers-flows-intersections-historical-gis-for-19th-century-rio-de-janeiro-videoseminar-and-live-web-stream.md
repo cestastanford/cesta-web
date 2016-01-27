@@ -1,7 +1,7 @@
 ---
 title: 'Zephyr Frank: &#8220;Layers, Flows, Intersections: Historical GIS for 19th -century Rio de Janeiro&#8221; Videoseminar and Live Web Stream'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:

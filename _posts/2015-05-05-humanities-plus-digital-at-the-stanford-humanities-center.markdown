@@ -1,5 +1,5 @@
 ---
-layout: stanford-post
+layout: post
 title: "Humanities + Digital at the Stanford Humanities Center"
 date: 2015-05-05 13:53
 categories: news, events

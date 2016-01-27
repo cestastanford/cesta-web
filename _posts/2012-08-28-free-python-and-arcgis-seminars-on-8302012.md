@@ -1,7 +1,7 @@
 ---
 title: Free Python and ArcGIS seminars on 8/30/2012
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:

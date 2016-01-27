@@ -4,7 +4,7 @@
   <title><![CDATA[Category: workshop | ]]></title>
   <link href="http://localhost:4000/categories/workshop/atom.xml" rel="self"/>
   <link href="http://localhost:4000/"/>
-  <updated>2016-01-25T09:59:00-08:00</updated>
+  <updated>2016-01-27T10:35:55-08:00</updated>
   <id>http://localhost:4000/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Digital Humanities Skills Workshop]]></title>
-    <link href="http://localhost:4000/2016/01/12/dh-skills-workshop/"/>
+    <link href="http://localhost:4000/workshop/2016/01/12/dh-skills-workshop/"/>
     <updated>2016-01-12T00:00:00-08:00</updated>
-    <id>http://localhost:4000/2016/01/12/dh-skills-workshop</id>
+    <id>http://localhost:4000/workshop/2016/01/12/dh-skills-workshop</id>
     <content type="html"><![CDATA[<p>As part of Digital Humanities: Asia, Nicole Coleman and Jason Heppler are running a series of workshops at the Center for Spatial and Textual Analysis.</p>
 ]]></content>
   </entry>

@@ -1,7 +1,7 @@
 ---
 title: 'Press Release: Erik Steiner and Spatial History Project Participates in National &#8220;Designing Intelligent Environments&#8221; Workshop'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
 tags:
@@ -25,15 +25,15 @@ The National Academy of Environmental Design serves the public by promoting the 
 
 Contact:
 
-Linda Sorrento, Executive Director  
-National Academy of Environmental Design  
-Email: <a href="mailto:lsorrento2@verizon.net" target="_blank">lsorrento2@verizon.net</a>  
+Linda Sorrento, Executive Director
+National Academy of Environmental Design
+Email: <a href="mailto:lsorrento2@verizon.net" target="_blank">lsorrento2@verizon.net</a>
 Phone:<a href="tel:703%20606-8195" target="_blank">703 606-8195</a>
 
-Fritz Steiner, President  
-National Academy of Environmental Design  
-Dean, University of Texas at Austin  
-Email: <a href="mailto:fsteiner@austin.utxas.edu" target="_blank">fsteiner@austin.utxas.edu</a>  
+Fritz Steiner, President
+National Academy of Environmental Design
+Dean, University of Texas at Austin
+Email: <a href="mailto:fsteiner@austin.utxas.edu" target="_blank">fsteiner@austin.utxas.edu</a>
 Phone: <a href="tel:512-471-1922" target="_blank">512-471-1922</a>
 
 &nbsp;

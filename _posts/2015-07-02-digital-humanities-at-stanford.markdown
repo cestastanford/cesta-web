@@ -1,11 +1,11 @@
 ---
-layout: stanford-post
+layout: post
 title: "Digital Humanities at Stanford"
 date: 2015-07-02 13:47
 categories: news
 ---
 
-The [Stanford Humanities Center](http://shc.stanford.edu/digital-humanities) is highlighting some of the work being done by digital humanities scholars around Stanford University, including several members and associates of CESTA. The full collection of videos produced by SHC can be [found online](http://shc.stanford.edu/video-category/digital-humanities). 
+The [Stanford Humanities Center](http://shc.stanford.edu/digital-humanities) is highlighting some of the work being done by digital humanities scholars around Stanford University, including several members and associates of CESTA. The full collection of videos produced by SHC can be [found online](http://shc.stanford.edu/video-category/digital-humanities).
 
 ## Geography of the Post
 

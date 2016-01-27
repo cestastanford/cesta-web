@@ -1,7 +1,7 @@
 ---
 title: 'CESTA Presents Maria McVarish &#8211; Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:
@@ -11,5 +11,5 @@ tags:
 
 <span style="color: #674ea7;">Maria McVarish is an architect, artist, and visual researcher practicing in San Francisco. She has lectured in architecture at UC Berkeley’s College of Environmental Design and, since 1996, teaches interdisciplinary studies, critical theory, and design at California College of the Arts in San Francisco. She will begin doctoral studies at Stanford&#8217;s Modern Thought and Literature program this fall.</span>
 
-**Tuesday, July 16th, 12pm to 1:30pm  
+**Tuesday, July 16th, 12pm to 1:30pm
 Learning Theater (Room 124), Wallenberg Hall (Building 160)**

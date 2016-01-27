@@ -4,7 +4,7 @@
   <title><![CDATA[Category: news | ]]></title>
   <link href="http://localhost:4000/categories/news/atom.xml" rel="self"/>
   <link href="http://localhost:4000/"/>
-  <updated>2016-01-25T09:59:00-08:00</updated>
+  <updated>2016-01-27T10:35:55-08:00</updated>
   <id>http://localhost:4000/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Digital Humanities at Stanford]]></title>
-    <link href="http://localhost:4000/2015/07/02/digital-humanities-at-stanford/"/>
+    <link href="http://localhost:4000/news/2015/07/02/digital-humanities-at-stanford/"/>
     <updated>2015-07-02T13:47:00-07:00</updated>
-    <id>http://localhost:4000/2015/07/02/digital-humanities-at-stanford</id>
-    <content type="html"><![CDATA[<p>The <a href="http://shc.stanford.edu/digital-humanities">Stanford Humanities Center</a> is highlighting some of the work being done by digital humanities scholars around Stanford University, including several members and associates of CESTA. The full collection of videos produced by SHC can be <a href="http://shc.stanford.edu/video-category/digital-humanities">found online</a>. </p>
+    <id>http://localhost:4000/news/2015/07/02/digital-humanities-at-stanford</id>
+    <content type="html"><![CDATA[<p>The <a href="http://shc.stanford.edu/digital-humanities">Stanford Humanities Center</a> is highlighting some of the work being done by digital humanities scholars around Stanford University, including several members and associates of CESTA. The full collection of videos produced by SHC can be <a href="http://shc.stanford.edu/video-category/digital-humanities">found online</a>.</p>
 
 <h2>Geography of the Post</h2>
 
@@ -52,9 +52,9 @@
   
   <entry>
     <title type="html"><![CDATA[Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science]]></title>
-    <link href="http://localhost:4000/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science/"/>
+    <link href="http://localhost:4000/news/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science/"/>
     <updated>2015-06-08T13:43:00-07:00</updated>
-    <id>http://localhost:4000/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science</id>
+    <id>http://localhost:4000/news/2015/06/08/geospatial-narrative-perspectives-from-the-humanities-cartography-and-geographic-information-science</id>
     <content type="html"><![CDATA[<p>On May 7th, Stanford University Libraries&#39; Center for Interdisciplinary Digital
 Research (CIDR) welcomed David O&#39;Sullivan, Associate Professor of Geography at
 the University of California, Berkeley to the Stanford campus for two events:

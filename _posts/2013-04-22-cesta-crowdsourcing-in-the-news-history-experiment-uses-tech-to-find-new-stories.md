@@ -1,7 +1,7 @@
 ---
 title: 'CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
 tags:

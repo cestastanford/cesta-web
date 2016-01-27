@@ -2,22 +2,25 @@
 # Project or Lab name
 ###
 
-name:                     "Center for Spatial and Textual Analysis"
-sub-name:                 "CESTA"
-type:                     lab # is this a `lab` site or `project` site?
+name:           "Center for Spatial and Textual Analysis"
+sub-name:       "CESTA"
+homepage_image:
+type:           lab # is this a `lab` site or `project` site?
 
 ###
 # Options
 ###
 
-markdown:                 redcarpet
-highlighter:              rouge
-description:              "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University."
-destination:              'built'
-url:                      'http://localhost:4000' # Change when going live
-permalink:                /:year/:month/:day/:title/
-twitter:                  'CESTA_Stanford'
-facebook:                 'cesta.stanford'
+markdown:     redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks","autolink","tables"]
+highlighter:  rouge
+description:  "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University."
+destination:  'built'
+url:          'http://localhost:4000' # Change when going live
+permalink:    pretty
+twitter:      'CESTA_Stanford'
+facebook:     'cesta.stanford'
 
 ###
 # Images
@@ -59,15 +62,13 @@ nav:
         suburl:   /teaching/dh-reading/
       - subtitle: "Digital Humanities Graduate Fellows"
         suburl:   /teaching/dh-fellows/
-  - title: "Resources"
-    url: /resources/
   - title: "Affiliates"
     url: /affiliates/
     subcategories:
       - subtitle: "Stanford Humanities Center"
-        url: http://shc.stanford.edu
+        url: "http://shc.stanford.edu"
       - subtitle: "DH@Stanford"
-        url: http://digitalhumanities.stanford.edu
+        url: "http://digitalhumanities.stanford.edu"
 
 ###
 # Exclude

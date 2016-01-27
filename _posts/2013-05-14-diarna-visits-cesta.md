@@ -1,7 +1,7 @@
 ---
 title: Diarna visits CESTA
 author: cnc
-layout: stanford-post
+layout: post
 categories:
   - News
 ---

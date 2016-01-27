@@ -1,7 +1,7 @@
 ---
 title: Visualizing Evidence Winter Workshop in Progress
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Courses
   - Events

@@ -1,7 +1,7 @@
 ---
 title: 'Wednesday: Distant Reading/Text Mining @ Visualizing Evidence Workshop'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:

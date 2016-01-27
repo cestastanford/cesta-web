@@ -1,7 +1,7 @@
 ---
 title: New Humanities + Design Graduate Fellows
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - News
 tags:

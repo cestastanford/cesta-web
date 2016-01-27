@@ -1,7 +1,7 @@
 ---
 title: 'CESTA Presents: Data Visualization with Tableau &#8211; June 28'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:
@@ -13,9 +13,9 @@ Some of the presentations will be more technical in nature, concentrating more o
 
 Our first presentation takes place this Thursday!
 
-**Data Visualization with Tableau**  
-**Ryan Heuser, Literary Lab, CESTA**  
-**Thursday, June 28th @ Noon**  
+**Data Visualization with Tableau**
+**Ryan Heuser, Literary Lab, CESTA**
+**Thursday, June 28th @ Noon**
 **Grand Central Room, 4th Floor Wallenberg Hall**
 
 Stairwell doors will be unlocked for this event for those who do not have access cards.

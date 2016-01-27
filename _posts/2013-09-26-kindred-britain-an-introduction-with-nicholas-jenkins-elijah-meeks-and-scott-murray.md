@@ -1,7 +1,7 @@
 ---
 title: 'Kindred Britain: An Introduction with Nicholas Jenkins, Elijah Meeks, and Scott Murray'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'CESTA Presents: Storyboarding Visualizations – July 12th'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:
@@ -13,9 +13,9 @@ Greetings,
 
 Please join us this Thursday for our next CESTA Presents event:
 
-**Storyboarding Visualizations**  
-**Fred Freitas, Dept. of History at Stanford**  
-**Thursday, July 12th @ Noon**  
+**Storyboarding Visualizations**
+**Fred Freitas, Dept. of History at Stanford**
+**Thursday, July 12th @ Noon**
 **Grand Central Room, 4th Floor Wallenberg Hall**
 
 Stairwell doors will be unlocked for this event for those who do not have access cards.

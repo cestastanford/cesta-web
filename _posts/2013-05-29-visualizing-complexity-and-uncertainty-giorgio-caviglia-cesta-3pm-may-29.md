@@ -1,7 +1,7 @@
 ---
 title: 'Visualizing Complexity and Uncertainty: Giorgio Caviglia @ CESTA 3pm May 29'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 ---
@@ -31,15 +31,15 @@ categories:
 <div>
   <strong>Dealing with uncertainty, instability and uniqueness: designers as (digital) reflective practitioners</strong></p> <div>
   </div>
-  
+
   <div>
     <strong>Description</strong>
   </div>
-  
+
   <div>
     The<strong> </strong>notion of designers as ‘reflective practitioners’ has been proposed by Donald Schön more than thirty years ago, to describe a specific way of knowing that is grounded in making and in a continuos conversation with the material of a design situation. More than starting from abstract planning, designers move through improvised actions and moment-by-moment responses to immediate needs and contexts. This idea of reflection-in-action represents a powerful tool for understanding, criticizing restructuring and acting within situations of<strong> </strong>uncertainty, complexity and value conflicts. Is it possible (and useful) to bring this notion of design-reasoning<strong> </strong>within humanities contexts? And in such a perspective, which can be the<strong> </strong>role of designers, visualizations and interfaces?
   </div>
-  
+
   <div>
   </div>
 </div>

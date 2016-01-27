@@ -1,7 +1,7 @@
 ---
 title: 'GIS Day &#8211; November 14th'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 ---
@@ -15,9 +15,9 @@ When you can, please let me know if you will be available to attend and/or willi
 
 Looking forward to hearing from you.
 
-Regards,  
-Celena Allen  
+Regards,
+Celena Allen
 &#8211;
 
-Spatial History Lab Research Assistant  
+Spatial History Lab Research Assistant
 Chilean Acuaculture Industry Project- Summer/Fall 2012

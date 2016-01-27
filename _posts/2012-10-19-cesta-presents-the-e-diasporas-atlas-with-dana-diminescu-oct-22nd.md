@@ -1,7 +1,7 @@
 ---
 title: 'CESTA Presents: The e-Diasporas Atlas with Dana Diminescu &#8211; Oct. 22nd'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 tags:
@@ -11,7 +11,7 @@ tags:
 ---
 **Dana Diminescu, The e-Diasporas Atlas**
 
-Monday, October 22, 3:00 p.m.  
+Monday, October 22, 3:00 p.m.
 Wallenberg Hall, 4th Floor, Gold & Honey
 
 The e-Diasporas Atlas was incubated and developed in the framework of the Fondation Maison des Sciences de l’Homme ICT Migrations program. Initiated and coordinated by Dana Diminescu, the project introduced digital methods into research on diasporas. This was made possible by the R&D innovations of Mathieu Jacomy and thanks to the technical coordination and training provided by Matthieu Renault. Some eighty researchers from diverse disciplines, laboratories and countries took part in the project. Several partners also contributed to its success: the Institut National de l&#8217;Audiovisuel, the Centre National de la Recherche Scientifique through its Migrinter laboratory, the Institut Mines-Telecom, Linkfluence and the design studio Incandescence. The e-Diasporas Atlas received funding from the Agence National de la Recherche (STIC Content and Interaction), the École d&#8217;ingénieurs Telecom ParisTech and the Fondation Maison des Sciences de l’Homme Paris.

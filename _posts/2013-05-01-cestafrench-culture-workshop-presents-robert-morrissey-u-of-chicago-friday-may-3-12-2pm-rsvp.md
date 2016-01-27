@@ -1,7 +1,7 @@
 ---
 title: 'CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago) &#8211; Friday May 3, 12-2pm RSVP'
 author: mpbryant
-layout: stanford-post
+layout: post
 categories:
   - Events
 ---
