@@ -17,8 +17,8 @@ redcarpet:
 highlighter:  rouge
 description:  "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University."
 destination:  'built'
-url:          'http://dev.cestastanford.org'
-baseurl:      'http://dev.cestastanford.org'
+url:          ''
+baseurl:      ''
 permalink:    pretty
 twitter:      'CESTA_Stanford'
 facebook:     'cesta.stanford'
@@ -52,17 +52,31 @@ nav:
         suburl: "http://litlab.stanford.edu"
       - subtitle: "Poetic Media"
         suburl: /poetic/
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Projects"
+    url: /projects/
+    subcategories:
+      - subtitle: "Chinese Railroad Workers"
+        suburl: ""
+      - subtitle: "Text/Technologies"
+        suburl: ""
+      - subtitle: "Grand Tour"
+        suburl: ""
+  - title: "Graduate Programs"
+    url: /graduate/
     subcategories:
       - subtitle: "Graduate Certificate of Digital Humanities"
-        suburl:   /teaching/gcdh/
-      - subtitle: "Digital Humanities Undergraduate Minor"
-        suburl:   /teaching/dh-minor/
+        suburl:   /graduate/gcdh/
       - subtitle: "Digital History Reading Group"
-        suburl:   /teaching/dh-reading/
+        suburl:   /graduate/dh-reading/
       - subtitle: "Digital Humanities Graduate Fellows"
-        suburl:   /teaching/dh-fellows/
+        suburl:   /graduate/dh-fellows/
+  - title: "Undergraduate Programs"
+    url: /undergraduate/
+    subcategories:
+      - subtitle: "Digital Humanities Undergraduate Minor"
+        suburl:   /undergraduate/dh-minor/
+      - subtitle: "Research Assistantships"
+        url: /undergraduate/assistantships/
   - title: "Affiliates"
     url: /affiliates/
     subcategories:

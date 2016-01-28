@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: workshop | ]]></title>
-  <link href="http://dev.cestastanford.org/categories/workshop/atom.xml" rel="self"/>
-  <link href="http://dev.cestastanford.org/"/>
-  <updated>2016-01-27T12:44:03-08:00</updated>
-  <id>http://dev.cestastanford.org/</id>
+  <link href="/categories/workshop/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2016-01-28T13:35:04-08:00</updated>
+  <id>/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Digital Humanities Skills Workshop]]></title>
-    <link href="http://dev.cestastanford.org/workshop/2016/01/12/dh-skills-workshop/"/>
+    <link href="/workshop/2016/01/12/dh-skills-workshop/"/>
     <updated>2016-01-12T00:00:00-08:00</updated>
-    <id>http://dev.cestastanford.org/workshop/2016/01/12/dh-skills-workshop</id>
+    <id>/workshop/2016/01/12/dh-skills-workshop</id>
     <content type="html"><![CDATA[<p>As part of Digital Humanities: Asia, Nicole Coleman and Jason Heppler are running a series of workshops at the Center for Spatial and Textual Analysis. If you are interested in learning more about Digital Humanities tools and techniques or want to prepare for the upcoming DHAsia workshops (<a href="http://dhasia.org/">http://dhasia.org/</a>), bring a laptop and dig into the following sessions co-sponsored by CIDR, CESTA, and the DH Focal Group.</p>
 
 <p>All sessions will be held at CESTA in rm 433A unless otherwise specified.</p>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Digital Humanities Minor"
-permalink: /teaching/dh-minor/
+permalink: /undergraduate/dh-minor/
 ---
 
 Text lanaguge from Sarah

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Digital History Reading Group"
-permalink: /teaching/dh-reading/
+permalink: /graduate/dh-reading/
 ---
 
 The Digital History Reading Group is an open group of graduate students and faculty who meet five times per quarter to discuss relevant works and projects, engage in practicums relevant to themes, and present and workshop their own projects.

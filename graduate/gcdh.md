@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Graduate Certificate in Digital Humanities"
-permalink: /teaching/gcdh/
+permalink: /graduate/gcdh/
 ---
 
 ### Summary

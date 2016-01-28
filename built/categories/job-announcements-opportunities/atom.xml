@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Job Announcements/Opportunities | ]]></title>
-  <link href="http://dev.cestastanford.org/categories/job-announcements-opportunities/atom.xml" rel="self"/>
-  <link href="http://dev.cestastanford.org/"/>
-  <updated>2016-01-27T12:44:03-08:00</updated>
-  <id>http://dev.cestastanford.org/</id>
+  <link href="/categories/job-announcements-opportunities/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2016-01-28T13:35:04-08:00</updated>
+  <id>/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Crowdsourcing California&#8217;s Conservation History: A Call to Action]]></title>
-    <link href="http://dev.cestastanford.org/events/job%20announcements/opportunities/2013/08/12/crowdsourcing-californias-conservation-history-a-call-to-action/"/>
+    <link href="/events/job%20announcements/opportunities/2013/08/12/crowdsourcing-californias-conservation-history-a-call-to-action/"/>
     <updated>2013-08-12T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/events/job%20announcements/opportunities/2013/08/12/crowdsourcing-californias-conservation-history-a-call-to-action</id>
+    <id>/events/job%20announcements/opportunities/2013/08/12/crowdsourcing-californias-conservation-history-a-call-to-action</id>
     <content type="html"><![CDATA[<h1>Crowdsourcing California&#8217;s Conservation History: A Call to Action</h1>
 
 <div>
@@ -92,9 +92,9 @@
   
   <entry>
     <title type="html"><![CDATA[Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History]]></title>
-    <link href="http://dev.cestastanford.org/job%20announcements/opportunities/2013/04/02/upcoming-exhibition-curating-the-bay-crowdsourcing-a-new-environmental-history/"/>
+    <link href="/job%20announcements/opportunities/2013/04/02/upcoming-exhibition-curating-the-bay-crowdsourcing-a-new-environmental-history/"/>
     <updated>2013-04-02T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/job%20announcements/opportunities/2013/04/02/upcoming-exhibition-curating-the-bay-crowdsourcing-a-new-environmental-history</id>
+    <id>/job%20announcements/opportunities/2013/04/02/upcoming-exhibition-curating-the-bay-crowdsourcing-a-new-environmental-history</id>
     <content type="html"><![CDATA[<div id="exhibition-description-rt">
   <h1>
     <strong><em>Curating the Bay: Crowdsourcing a New Environmental History</em></strong>
@@ -133,9 +133,9 @@
   
   <entry>
     <title type="html"><![CDATA[Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project]]></title>
-    <link href="http://dev.cestastanford.org/job%20announcements/opportunities/2012/10/22/application-deadline-extended-to-oct-26th-paid-undergraduate-research-positions-for-the-spatial-history-project/"/>
+    <link href="/job%20announcements/opportunities/2012/10/22/application-deadline-extended-to-oct-26th-paid-undergraduate-research-positions-for-the-spatial-history-project/"/>
     <updated>2012-10-22T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/job%20announcements/opportunities/2012/10/22/application-deadline-extended-to-oct-26th-paid-undergraduate-research-positions-for-the-spatial-history-project</id>
+    <id>/job%20announcements/opportunities/2012/10/22/application-deadline-extended-to-oct-26th-paid-undergraduate-research-positions-for-the-spatial-history-project</id>
     <content type="html"><![CDATA[<p><strong>Application deadline has been extended to 5pm, Friday Oct. 26th!</strong></p>
 
 <p>The Spatial History Project is now accepting applications for paid undergraduate Research Assistants. We are currently hiring independent and motivated students to engage in original research and can positively impact the following research projects (please note that some positions will begin immediately this Autumn while others will begin in Winter 2013). Instructions for applying follow the project descriptions. Pay rate is $15 per hour.</p>
@@ -224,9 +224,9 @@ Current Stanford undergraduate students are eligible to apply, including those w
   
   <entry>
     <title type="html"><![CDATA[Glen Worthey: Digital Humanities, or Seven Decades of the New New Thing &#8211; CESTA, Aug. 17th]]></title>
-    <link href="http://dev.cestastanford.org/job%20announcements/opportunities/2012/08/16/glen-worthey-digital-humanities-or-seven-decades-of-the-new-new-thing-cesta-aug-17th/"/>
+    <link href="/job%20announcements/opportunities/2012/08/16/glen-worthey-digital-humanities-or-seven-decades-of-the-new-new-thing-cesta-aug-17th/"/>
     <updated>2012-08-16T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/job%20announcements/opportunities/2012/08/16/glen-worthey-digital-humanities-or-seven-decades-of-the-new-new-thing-cesta-aug-17th</id>
+    <id>/job%20announcements/opportunities/2012/08/16/glen-worthey-digital-humanities-or-seven-decades-of-the-new-new-thing-cesta-aug-17th</id>
     <content type="html"><![CDATA[<p>The <strong><em>Early Modern Time &amp; Networks</em></strong> workshop presents:</p>
 
 <p><strong>&#8220;Digital Humanities, or Seven Decades of the New New Thing&#8221;</strong>

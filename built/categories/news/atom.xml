@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: News | ]]></title>
-  <link href="http://dev.cestastanford.org/categories/news/atom.xml" rel="self"/>
-  <link href="http://dev.cestastanford.org/"/>
-  <updated>2016-01-27T12:44:03-08:00</updated>
-  <id>http://dev.cestastanford.org/</id>
+  <link href="/categories/news/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2016-01-28T13:35:04-08:00</updated>
+  <id>/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[]]></title>
-    <link href="http://dev.cestastanford.org/news/2013/10/08/657/"/>
+    <link href="/news/2013/10/08/657/"/>
     <updated>2013-10-08T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/news/2013/10/08/657</id>
+    <id>/news/2013/10/08/657</id>
     <content type="html"><![CDATA[<p><a href="https://cesta.stanford.edu/wp-content/uploads/2013/10/TheBlackBardPoster_3.png"><img class="aligncenter size-full wp-image-663" title="TheBlackBardPoster_3" src="https://cesta.stanford.edu/wp-content/uploads/2013/10/TheBlackBardPoster_3.png" alt="" width="240" height="317" /></a></p>
 
 <p>Please join us for our first *CESTA Presents *event of the new school year:</p>
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[Humanities + Design Receives NEH Grant!]]></title>
-    <link href="http://dev.cestastanford.org/news/2013/08/20/humanities-design-receives-neh-grant/"/>
+    <link href="/news/2013/08/20/humanities-design-receives-neh-grant/"/>
     <updated>2013-08-20T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/news/2013/08/20/humanities-design-receives-neh-grant</id>
+    <id>/news/2013/08/20/humanities-design-receives-neh-grant</id>
     <content type="html"><![CDATA[<div id="center">
   <div id="post-28825">
     <h2>
@@ -136,9 +136,9 @@
   
   <entry>
     <title type="html"><![CDATA[CESTA Crowdsourcing Projects in the Stanford News]]></title>
-    <link href="http://dev.cestastanford.org/news/2013/05/23/cesta-crowdsourcing-projects-in-the-stanford-news/"/>
+    <link href="/news/2013/05/23/cesta-crowdsourcing-projects-in-the-stanford-news/"/>
     <updated>2013-05-23T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/news/2013/05/23/cesta-crowdsourcing-projects-in-the-stanford-news</id>
+    <id>/news/2013/05/23/cesta-crowdsourcing-projects-in-the-stanford-news</id>
     <content type="html"><![CDATA[<p>You may find the following article on the web: <a href="http://stanford.io/16KRsTw">http://stanford.io/16KRsTw</a></p>
 
 <p>May 21, 2013</p>
@@ -205,9 +205,9 @@
   
   <entry>
     <title type="html"><![CDATA[Diarna visits CESTA]]></title>
-    <link href="http://dev.cestastanford.org/news/2013/05/14/diarna-visits-cesta/"/>
+    <link href="/news/2013/05/14/diarna-visits-cesta/"/>
     <updated>2013-05-14T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/news/2013/05/14/diarna-visits-cesta</id>
+    <id>/news/2013/05/14/diarna-visits-cesta</id>
     <content type="html"><![CDATA[<p>Aron Rodrigue brought guests from the Diarna project to CESTA to share ideas about how to gather and share historical spatial data. <a href="http://diarna.org">Diarna</a> (&#8220;our homes&#8221; in judeo-arabic) is a Digital Heritage Mapping project and geo-museum dedicated to documenting important sites in Jewish life in the Middle East and North Africa.</p>
 
 <div id="attachment_595" class="wp-caption alignnone" style="width: 310px">
@@ -232,9 +232,9 @@
   
   <entry>
     <title type="html"><![CDATA[CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories]]></title>
-    <link href="http://dev.cestastanford.org/news/2013/04/22/cesta-crowdsourcing-in-the-news-history-experiment-uses-tech-to-find-new-stories/"/>
+    <link href="/news/2013/04/22/cesta-crowdsourcing-in-the-news-history-experiment-uses-tech-to-find-new-stories/"/>
     <updated>2013-04-22T00:00:00-07:00</updated>
-    <id>http://dev.cestastanford.org/news/2013/04/22/cesta-crowdsourcing-in-the-news-history-experiment-uses-tech-to-find-new-stories</id>
+    <id>/news/2013/04/22/cesta-crowdsourcing-in-the-news-history-experiment-uses-tech-to-find-new-stories</id>
     <content type="html"><![CDATA[<p><a href="http://www.vcstar.com/news/2013/apr/20/history-experiment-uses-tech-to-find-new-stories/" target="_blank">Here is a recent article</a> on the Curating the Bay: Crowdsourcing a New Environmental History exhibit at the California Historical Society.</p>
 
 <div id="attachment_569" class="wp-caption aligncenter" style="width: 617px">

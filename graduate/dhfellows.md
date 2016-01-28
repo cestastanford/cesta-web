@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Digital Humanities Graduate Fellows"
-permalink: /teaching/dh-fellows/
+permalink: /graduate/dh-fellows/
 ---
 
 CESTA's Graduate Research Fellows Program is designed to prepare graduate students for a future where digital scholarship is the norm. In the program, advanced graduate students have access to a co-working environment and a community of practice in which to design, develop, and workshop digital research projects.
