@@ -51,16 +51,16 @@ nav:
       - subtitle: "Literary Lab"
         suburl: "http://litlab.stanford.edu"
       - subtitle: "Poetic Media"
-        suburl: /poetic/
+        suburl: "https://poeticmedia.stanford.edu/" 
   - title: "Projects"
     url: /projects/
     subcategories:
       - subtitle: "Chinese Railroad Workers"
-        suburl: ""
+        suburl: "http://web.stanford.edu/group/chineserailroad/cgi-bin/wordpress/"
       - subtitle: "Text/Technologies"
-        suburl: ""
+        suburl: "https://texttechnologies.stanford.edu/"
       - subtitle: "Grand Tour"
-        suburl: ""
+        suburl: "http://grandtour.stanford.edu/"
   - title: "Graduate Programs"
     url: /graduate/
     subcategories:
@@ -76,7 +76,7 @@ nav:
       - subtitle: "Digital Humanities Undergraduate Minor"
         suburl:   /undergraduate/dh-minor/
       - subtitle: "Research Assistantships"
-        url: /undergraduate/assistantships/
+        suburl: /undergraduate/assistantships/
   - title: "Affiliates"
     url: /affiliates/
     subcategories:

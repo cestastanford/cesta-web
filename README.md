@@ -32,7 +32,6 @@ bibliographies, reading lists, and citations. You can read more in the
 - `stringex`: Extensions for Ruby's [String
 class](http://www.ruby-doc.org/core-2.1.1/String.html). Read more in the
 [documentation](https://github.com/rsl/stringex).
-- `travis`: We use travis to handle continuous deployment.
 
 To install the Ruby gems, ensure that the `bundler` Ruby gem is
 installed. From the command line,
@@ -51,8 +50,7 @@ the command line to preview the site on a local server.
 
 More `rake` tasks are available to developers to make editing, updating,
 uploading, testing, and adding content easier. Run `rake` from the
-command line to see what tasks are
-available to you.
+command line to see what tasks are available to you.
 
 ## Layouts
 
@@ -73,7 +71,12 @@ to deploy the site through Travis CI.
 
 ## Deploying
 
-Ockham can be deployed in one of three ways:
+Deployment is handled with two basic steps:
+
+1. build
+2. deploy
+
+The build pipeline is meant to be streamlined, and most of it is handled with the Rakefile. You will need to edit the Rakefile to meet your needs. Right now, there are two ways to deploy sites:
 
 - `rsync`: Using rsync allows you to use plugins that are included with
 Ockham. The site is generated locally, then using `rake deploy` you can send
@@ -81,7 +84,12 @@ the files to your server using `rsync`.
 - `Github pages`: If you are using Github pages to host Ockham, you will be
 unable to use the included plugins. Github Pages only allows certain plugins
 to run within their system, and you will be limited to only those plugins.
-- `Travis CI`:
+
+By default, Ockham uses `rsync` to handle deployments. From the command line, typing
+
+  rake deploy
+
+will run the Jekyll build process and upload the results to the server. If you'd like to check your work first, you can run `rake preview` to see the site locally at [localhost:4000](http://localhost:4000).
 
 ## Requirements
 
@@ -90,7 +98,7 @@ to run within their system, and you will be limited to only those plugins.
   * jekyll-scholar
   * rake
   * stringex
-  * jekyll
+  * jekyll >= 3.0
 
 ## About
 
@@ -99,3 +107,8 @@ Ockham developed by Jason A. Heppler and Nicole Coleman at the [Center for Spati
 ## License
 
 Ockham is released under the MIT License <http://heppler.mit-license.org>.
+
+## Upcoming Features
+
+[ ] A GUI editing interface for Markdown
+[ ] A deploy process for Github pages built into the Rakefile

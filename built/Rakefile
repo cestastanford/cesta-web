@@ -19,11 +19,11 @@ task :rsync => [:build] do
   puts "\n Deploying site with rsync..."
 
   ssh_port      = "22"
-  ssh_user      = "jason@74.207.249.200"
+  ssh_user      = "cestasta@cestastanford.org"
   rsync_delete  = true
   rsync_options = "--checksum --stats -avz -e"
   public_dir    = "_site"
-  document_root = "/var/www/cestadev/"
+  document_root = "~/public_html/dev/"
 
   exclude = ""
   if File.exists?('./rsync-exclude')
